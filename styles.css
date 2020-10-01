@@ -1,0 +1,22 @@
+body{
+    background-color: #D8D8BF;
+    border: 20px;
+}
+#cabeça{
+    background-color: greenyellow;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    font-family: Courier New, monospace;
+    
+}
+#video{
+    float: left;
+    border: dashed 5px green;
+
+}
+#mapa{
+    background-color: darkgreen;
+    float: right;
+}
