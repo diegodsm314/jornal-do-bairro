@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="papel.css">
+        <meta charset="utf-8">
+        <title>Folhinha do Bairro</title>
+    </head>
+    <body>
+        <header id="cabeça"><h1>Jornal do Bairro</h1></header>
+        <h2>Esplanada</h2>
+        <nav>
+           <p>
+               Bairro Esplanada é um bairro pouco movimentado,tem alguns comércios espalhados nele,a maior consentração é na avenida principal
+             231,Rua Coronel coelho (pelo menos eu acho que é)...<br>
+             Ele também tem uma praça que fica localizada na rua 331 Julio Rodrigues Santos,ela sim é bem movimentada,la nós
+             podemos jogar na quadra,brincar nos brinquedos que tem do outro lado,também podemos sentar no banco ou na arquibancada e conversa,
+             o que eu mais gosta daqui é a quadra e a igreja..confesso algumas pessoas também eu gosto,porque em geral,é tudo um pé no saco 
+             (sem querer ser grossa)<br><br>
+           </p>
+        </nav>
+        <article>
+            <strong>primeira ação que vi desse povo do bairro..deve ter tido outras..não sei..ou talvez eu so não vou com a cara do povo daqui kkk...</strong>
+           
+                <section> 
+                    <ul><iframe width="560" height="315" src="https://www.youtube.com/embed/PeF13pf2G6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="video"></iframe></ul>
+                </section>
+                <a href="https://youtu.be/PeF13pf2G6s">Pode apertar aqui também!!!</a>
+            
+        </article>
+        <aside>
+            covid-19 está ai,lembre-se de se cuidar de acordo com as orientações do Ministerio da saúde
+            <section>
+                <ul>
+                    <li>lave constantemente as maõs</li>
+                    <li>use mascára</li>
+                    <li>passe alcóol em gel</li>
+                    <li>evite lugares com aglomeraação</li>
+                    <li>mantenha o distaciamneto de 1 a 2 metros</li>
+                </ul>
+            </section>
+        </aside>
+            <br><br><br><br><br><br><br><br><b<br><br><br><br>
+            <footer>
+                <p>
+                   cuide-se <br>
+                  Rua Coronel Coelho 195 no Bairro Esplanada na Cidade de Montes Claros, MG. O Cep de nosso endereço é: 39401-446 
+                </p>
+            </footer>
+    </body>
+</html>
