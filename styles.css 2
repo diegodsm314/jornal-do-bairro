@@ -1,0 +1,49 @@
+
+body {
+   background-color: white;
+    margin: 0;
+    background-color: #D8D8BF;
+    border: 20px;
+    font-family: American Typewriter, serif;
+    border: white;
+}
+header{
+    background-color: greenyellow;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+h1 {
+    margin: 0;
+    margin-left: 60px;
+}
+
+h3{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, serif ;
+    margin-top: 32px;
+    margin-left: 64px;
+}
+#video{
+    float: right;
+    border: dashed 5px green;
+
+}
+footer{
+	color: white;
+    text-align: center;
+    background-color: #adff2f;
+    padding: 8px
+}
+    
+p{
+    font-family:  Avantgarde, TeX Gyre Adventor, URW Gothic L, serif;
+    margin-top: 32px;
+    margin-left: 64px;
+}
+
+
+
+
+
+
